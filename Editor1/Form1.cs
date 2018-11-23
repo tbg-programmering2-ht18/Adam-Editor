@@ -32,7 +32,7 @@ namespace Editor1
         }
 
         private void toolStripMenuItem6_Click(object sender, EventArgs e)
-        {
+        {   //
             DialogResult dialogResult = openFileDialog2.ShowDialog();
             if (dialogResult == DialogResult.OK)
             {
